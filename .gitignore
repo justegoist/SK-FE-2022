@@ -2,7 +2,11 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,osx,node,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,osx,node,visualstudiocode
 
+<<<<<<< HEAD
 RESET_GIT_BRANCHES/
+=======
+
+>>>>>>> origin/practice/stateless-component
 
 ### Node ###
 # Logs
